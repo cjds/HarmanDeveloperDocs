@@ -1,7 +1,7 @@
 Getting Started Guide (Android)
 ===============================
 
-HKWirelessHD SDK supports both Objective-C and Swift. This document assumes that developer creates his/her app using the Swift language.
+This document assumes that developer creates his/her app using the Java language.
 
 There are two versions of SDK
 - a normal version: HKWirelessHDSDK
